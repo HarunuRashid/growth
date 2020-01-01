@@ -1,0 +1,12 @@
+{
+    "autoload": {
+        "classmap": [
+            "./"
+        ]
+    },
+    "require": {
+        "symfony/http-foundation": "^4.3",
+        "league/csv": "^9.4",
+        "league/oauth2-client": "^2.4"
+    }
+}
